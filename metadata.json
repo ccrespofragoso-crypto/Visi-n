@@ -1,0 +1,5 @@
+{
+  "name": "Visión Arquitectónica AI",
+  "description": "Una aplicación web para visualizar conceptos arquitectónicos y generar diseños de casas de ensueño utilizando la IA de Gemini.",
+  "requestFramePermissions": []
+}
